@@ -1,6 +1,6 @@
 {
-    "name": "restaurant_menu",
-    "short_name": "restaurant_menu",
+    "name": "daonsushi",
+    "short_name": "daonsushi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
