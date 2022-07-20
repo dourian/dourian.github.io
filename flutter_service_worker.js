@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "659f0968c9adfa580c5b3f3a21acca81",
-"index.html": "6538daa2c10b372b918d61fc26634bbb",
-"/": "6538daa2c10b372b918d61fc26634bbb",
-"main.dart.js": "42ffe2655f8542a28c41c09d58e7fa55",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"index.html": "4abf6d652b6db87704c01de7c0617bf2",
+"/": "4abf6d652b6db87704c01de7c0617bf2",
+"main.dart.js": "039d11e4029ec96c6afef37a3822a100",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -45,11 +44,7 @@ const RESOURCES = {
 "assets/assets/Sushi%2520Appetizer.jpeg": "00140acc4b99e82d24606dc3615b2fb1",
 "assets/assets/Red%2520Dragon.jpeg": "fab2d1cdb8940c2303855bf342584012",
 "assets/assets/Bulgogi%2520Lunch%2520Box.jpeg": "f2e4e9b7a71a0d4eae512812be78b235",
-"assets/assets/Spicy%2520Salmon%2520Roll.jpeg": "32c36a668a0b50b697186593e8605324",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/Spicy%2520Salmon%2520Roll.jpeg": "32c36a668a0b50b697186593e8605324"
 };
 
 // The application shell files that are downloaded before a service worker can
