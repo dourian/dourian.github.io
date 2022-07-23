@@ -4,23 +4,20 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "659f0968c9adfa580c5b3f3a21acca81",
-"index.html": "4abf6d652b6db87704c01de7c0617bf2",
-"/": "4abf6d652b6db87704c01de7c0617bf2",
-"main.dart.js": "039d11e4029ec96c6afef37a3822a100",
+"index.html": "e9c6441ecc3bfde388ef6605b04e2071",
+"/": "e9c6441ecc3bfde388ef6605b04e2071",
+"main.dart.js": "5e94ec90ec37559906b088f01132808d",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "d5beef0205610ce7921e01a0eb042fa6",
-"assets/AssetManifest.json": "4016f1a57d27e1eb1750c566cf21f106",
+"assets/AssetManifest.json": "b59d0ac065b96f23b5d6152b3d003203",
 "assets/NOTICES": "46c0d1a7cd12c85c1f0797037d52511e",
-"assets/FontManifest.json": "50b0775a2b5a8a63d62cbec0bac03ffa",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/Rockwell.ttc": "7f22e4928b358740c3734063317d6cb9",
-"assets/fonts/PTSans.ttc": "b9f92f62fa08ec2b9795148c6f3722b3",
-"assets/fonts/Nunito-Regular.ttf": "ee871891d96eae03cd9092a5f6ef7dcb",
-"assets/fonts/Nunito-Bold.ttf": "ce2557158c6267735ef6c4012401bf59",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/Seafood%2520Udon.jpeg": "7ae21543eaeb3b1b55888ac2f16ce163",
 "assets/assets/Avocado%2520Roll.jpeg": "702dd09b247eaef9f0c3a2244c7d7419",
@@ -44,7 +41,11 @@ const RESOURCES = {
 "assets/assets/Sushi%2520Appetizer.jpeg": "00140acc4b99e82d24606dc3615b2fb1",
 "assets/assets/Red%2520Dragon.jpeg": "fab2d1cdb8940c2303855bf342584012",
 "assets/assets/Bulgogi%2520Lunch%2520Box.jpeg": "f2e4e9b7a71a0d4eae512812be78b235",
-"assets/assets/Spicy%2520Salmon%2520Roll.jpeg": "32c36a668a0b50b697186593e8605324"
+"assets/assets/Spicy%2520Salmon%2520Roll.jpeg": "32c36a668a0b50b697186593e8605324",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
