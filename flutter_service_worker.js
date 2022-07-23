@@ -4,9 +4,16 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "659f0968c9adfa580c5b3f3a21acca81",
+<<<<<<< HEAD
 "index.html": "4abf6d652b6db87704c01de7c0617bf2",
 "/": "4abf6d652b6db87704c01de7c0617bf2",
 "main.dart.js": "039d11e4029ec96c6afef37a3822a100",
+=======
+"index.html": "1a76787b9ceae29ffc1b7546bcf9437a",
+"/": "1a76787b9ceae29ffc1b7546bcf9437a",
+"main.dart.js": "102802832b3c3429be53010c9d233cc6",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+>>>>>>> parent of 35741bd (font changes)
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
